@@ -1,0 +1,4 @@
+D:\C#\C# AN1 Algoritmi Fundamentali\Direct_Selection_Sort\Direct_Selection_Sort\obj\Debug\netcoreapp3.1\Direct_Selection_Sort.csprojAssemblyReference.cache
+D:\C#\C# AN1 Algoritmi Fundamentali\Direct_Selection_Sort\Direct_Selection_Sort\obj\Debug\netcoreapp3.1\Direct_Selection_Sort.AssemblyInfoInputs.cache
+D:\C#\C# AN1 Algoritmi Fundamentali\Direct_Selection_Sort\Direct_Selection_Sort\obj\Debug\netcoreapp3.1\Direct_Selection_Sort.AssemblyInfo.cs
+D:\C#\C# AN1 Algoritmi Fundamentali\Direct_Selection_Sort\Direct_Selection_Sort\obj\Debug\netcoreapp3.1\Direct_Selection_Sort.csproj.CoreCompileInputs.cache

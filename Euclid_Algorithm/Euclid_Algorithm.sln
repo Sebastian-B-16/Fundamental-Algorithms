@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euclid_Algorithm", "Euclid_Algorithm\Euclid_Algorithm.csproj", "{F13BF03E-DFC5-4818-B938-8E29C3F50CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13BF03E-DFC5-4818-B938-8E29C3F50CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13BF03E-DFC5-4818-B938-8E29C3F50CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13BF03E-DFC5-4818-B938-8E29C3F50CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13BF03E-DFC5-4818-B938-8E29C3F50CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {497AB634-2CBC-4AE3-BA3C-3E0F4B52F5C0}
+	EndGlobalSection
+EndGlobal
