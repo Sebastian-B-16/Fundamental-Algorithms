@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matrix_SpiralDisplay/1.0.0": {
+        "runtime": {
+          "Matrix_SpiralDisplay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrix_SpiralDisplay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
